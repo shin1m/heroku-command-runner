@@ -1,0 +1,10 @@
+{
+  "name": "heroku-command-runner",
+  "version": "0.0.0",
+  "dependencies": {
+    "coffee-script": "*",
+    "express": "*",
+    "morgan": "*",
+    "errorhandler": "*"
+  }
+}
